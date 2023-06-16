@@ -79,7 +79,7 @@ TokyuRuby会議では上記の観点に対する、以下のような行為を�
 
 当ポリシーの策定には、以下のアンチハラスメントポリシーやガイドラインを参考にさせてもらいました。
 
-- [JunichiIto \- tokyogirlsrb-policy.md] (https://gist.github.com/JunichiIto/7a080f1cfb0ae27ef600c14b94a02db7)
+- [JunichiIto \- tokyogirlsrb-policy.md](https://gist.github.com/JunichiIto/7a080f1cfb0ae27ef600c14b94a02db7)
 - [Policies \- RubyKaigi 2018](https://rubykaigi.org/2018/policies)
 - [Ruby25 \| CoC](http://25.ruby.or.jp/coc.ja.html)
 - [JXUG : コミュニティポリシー](http://jxug.org/policy.html)
