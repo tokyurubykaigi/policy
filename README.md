@@ -73,11 +73,17 @@ TokyuRuby会議では上記の観点に対する、以下のような行為を�
 
 当ポリシーに関する質問やお問い合わせは、以下の運営スタッフまでお願いします。
 
-- 河野　誠（[@ginkouno](https://twitter.com/ginkouno)）
+- 河野誠([@ginkouno](https://twitter.com/ginkouno))
+- 大場光一郎([@koichiroo](https://twitter.com/koichiroo))
+- 小川伸一郎([@conceal_rs](https://twitter.com/conceal_rs))
+- 小椋隆史([@littlestarling](https://twitter.com/littlestarling))
+- publichtml([@publichtml](https://twitter.com/publichtml))
+- がく([@Gaku07jp](https://twitter.com/Gaku07jp))
+- yukaina([@yukaina](https://twitter.com/yukaina))
 
 ## 参考文献
 
-当ポリシーの策定には、以下のアンチハラスメントポリシーやガイドラインを参考にさせてもらいました。
+当ポリシーの策定には、以下のアンチハラスメントポリシーやガイドラインを参考にさせて頂きました。
 
 - [JunichiIto \- tokyogirlsrb-policy.md](https://gist.github.com/JunichiIto/7a080f1cfb0ae27ef600c14b94a02db7)
 - [Policies \- RubyKaigi 2018](https://rubykaigi.org/2018/policies)
@@ -98,3 +104,4 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 以下の改訂履歴には軽微な文言の修正は含まれません。
 
 - 2023/06/16 新規作成
+- 2023/06/17 問い合わせ先スタッフの追加
